@@ -5,8 +5,8 @@
 #include <WiFi.h>
 #include <BlynkSimpleEsp32.h>
 
-char ssid[] = "A12 milik Febri";
-char pass[] = "febri11590";
+char ssid[] = "Wifi";
+char pass[] = "Password";
 
 #define GAS_SENSOR_PIN 34
 #define RELAY_PIN 25
